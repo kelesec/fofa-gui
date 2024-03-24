@@ -1,5 +1,7 @@
 # Fofa-Gui
 
+> 项目不再更新，新版移步：https://github.com/kelesec/zfofa
+
 ## About
 
 此项目基于JavaFx构建可视化，项目的目的主要还是在于学习，所谓学而用之，学了不用就没意思了
